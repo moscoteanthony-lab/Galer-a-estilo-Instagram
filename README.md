@@ -1,0 +1,1 @@
+Este proyecto es una galería de imágenes estilo retro, diseñada con HTML5 y CSS3 utilizando CSS Grid para organizar las fotos de manera responsiva en 3 columnas. Incluye efectos elegantes al pasar el mouse, como zoom suave y filtros sepia, logrando un estilo clásico y moderno a la vez.
